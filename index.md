@@ -1,5 +1,6 @@
 # Abhishek Kankipati's First CS193 Homework
-- 
+- I like that this class is teaching information on things like Terminal and Github, two things absolutely fundamental for CS
+- I like that the instructors for CS193 are also Purdue undergrad students, so they can relate to us freshmen more
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
